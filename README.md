@@ -1,5 +1,5 @@
-# collage-demo
+c# collage-demo
 This is my first Git Repository
 <br>
-Author - Sam sumer 
+Author - Sam (How you change the world)
 </br>
